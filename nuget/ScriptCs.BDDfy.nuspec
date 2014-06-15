@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>ScriptCs.BDDfy</id>
+    <version>1.0.1</version>
+    <authors>Kostya</authors>
+    <owners>Kostya</owners>
+	<projectUrl>https://github.com/k0stya/ScriptCs.Bddfy</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>ScriptCs script pack for TestStack.BDDfy</description>
+    <copyright>Copyright 2014</copyright>
+    <tags>BDDfy ScriptCs</tags>
+    <dependencies>
+		<dependency id="NUnit" version="2.6.2" />
+		<dependency id="ScriptCs.Contracts" version="0.9.0" />
+		<dependency id="ScriptCs.NUnit" version="0.5.2"  />
+		<dependency id="TestStack.BDDfy" version="3.19.1" />
+    </dependencies>
+  </metadata>
+</package>
